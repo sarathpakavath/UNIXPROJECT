@@ -1,1 +1,0 @@
-## Project on Bash programming, Make, Git and GitHub
